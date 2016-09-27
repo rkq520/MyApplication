@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_SSQ"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="双色球" />
+        <item
+            android:id="@+id/nav_DLT"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="大乐透" />
+        <item
+            android:id="@+id/nav_115"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="11选5" />
+        <item
+            android:id="@+id/nav_Qyh"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="群英会" />
+    </group>
+
+    <item android:title="在线数据爬虫">
+        <menu>
+            <item
+                android:id="@+id/nav_getData"
+                android:icon="@drawable/ic_menu_share"
+                android:title="获取数据" />
+            <item
+                android:id="@+id/nav_UpdateData"
+                android:icon="@drawable/ic_menu_send"
+                android:title="更新数据" />
+        </menu>
+    </item>
+
+</menu>

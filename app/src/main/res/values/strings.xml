@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">彩乐乐工作室</string>
+    <string name="login_name">红火火</string>
+
+    <string name="navigation_drawer_open">打开宝盒</string>
+    <string name="navigation_drawer_close">关闭宝盒</string>
+
+    <string name="action_settings">设置</string>
+</resources>
